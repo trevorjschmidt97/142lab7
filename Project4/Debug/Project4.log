@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\trevo\source\repos\project4\project4\source.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\trevo\source\repos\project4\project4\source.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\trevo\source\repos\project4\project4\source.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\trevo\source\repos\project4\project4\source.cpp(177): warning C4018: '>': signed/unsigned mismatch
+c:\users\trevo\source\repos\project4\project4\source.cpp(230): warning C4018: '<': signed/unsigned mismatch
+  Project4.vcxproj -> C:\Users\trevo\source\repos\Project4\Debug\Project4.exe
